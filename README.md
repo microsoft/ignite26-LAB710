@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB710: Provisioning and Configuring Windows 365 for Agentic Workloads
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+In this hands-on lab, participants will deploy and manage Windows 365 for Agents, Microsoft’s secure Cloud PC platform for AI agents. Guided exercises cover provisioning agent workloads, creating policies, configuring security and compliance controls, integrating with Microsoft Intune and Entra ID, and managing the agent lifecycle. Attendees will learn how to operationalize and scale agentic workloads while maintaining enterprise governance, security, and compliance.
 
 ### 🚀 Getting started
 
