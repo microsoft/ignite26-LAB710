@@ -17,11 +17,39 @@ If you're following along during a live session:
 
 ### 🎯 Learning outcomes
 
-By the end of this session, you will be able to:
+By the end of Lab 710, given instructor-validated workflows, approved accounts, and lab resources, learners will be able to demonstrate the outcomes below. Administrative and maker activities apply only to participants assigned those roles.
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+## Remember 
+
+- Identify the assigned accounts, tenant, agent instance, provisioning policy, billing plan, and two agent Cloud PCs needed to complete the lab.
+
+## Understand
+
+- Explain the distinctions between registering an MFA method and verifying an MFA challenge; discovering an agent and creating an instance; and publishing an agent and enabling learner access in Teams.
+- Describe how agent association, provisioning configuration, billing association, and resource readiness contribute to the lab workflow without assuming they share the same configuration controls.
+
+## Apply
+
+•	Complete the assigned MFA challenge and connect to the learner Cloud PC through Windows App using the approved account.
+•	Use Teams to issue an instructor-approved, harmless task to the published agent and inspect the actual execution result.
+•	Carry out authorized session termination and cleanup procedures, verifying the final resource state rather than assuming that closing an application stops billing.
+
+## Analyze
+
+•	Differentiate account, tenant, publication, permissions, billing, and capacity issues when investigating a failed lab checkpoint, and record sanitized evidence before retrying.
+•	Distinguish evidence that two distinct agent Cloud PCs are ready from evidence of task execution, resource allocation, or concurrent sessions.
+Evaluate
+•	Assess completion against the lab checkpoints by checking the exact agent identifier, Teams availability, policy association, approved billing plan, both Cloud PC readiness states, and verified task output.
+•	Determine whether to proceed, stop for instructor validation, or request an approved alternative when instructions, permissions, resource identity, or supported actions cannot be confirmed.
+
+## Create
+
+•	As an authorized maker, create a distinct Playground Agent instance using the approved naming convention, record its identifier and environment, and publish it for the intended learner audience in Teams.
+•	As an authorized administrator, create the lab provisioning policy, associate the exact agent instance and approved billing plan through the validated controls, and request exactly two agent Cloud PCs.
+•	Compile a completion record linking each required lab outcome to its observed result and applicable resource, run, or session identifier, noting unresolved validation gaps.
+
+Assessment condition: These outcomes are targets, not claims of successful execution. Product navigation, supported commands, roles, and provisioning and billing controls must be validated in the lab tenant before learner delivery.
+
 
 ### 💻 Technologies used
 
