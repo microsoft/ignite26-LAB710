@@ -19,34 +19,36 @@ If you're following along during a live session:
 
 By the end of Lab 710, given instructor-validated workflows, approved accounts, and lab resources, learners will be able to demonstrate the outcomes below. Administrative and maker activities apply only to participants assigned those roles.
 
-## Remember 
+### Remember 
 
 - Identify the assigned accounts, tenant, agent instance, provisioning policy, billing plan, and two agent Cloud PCs needed to complete the lab.
 
-## Understand
+### Understand
 
 - Explain the distinctions between registering an MFA method and verifying an MFA challenge; discovering an agent and creating an instance; and publishing an agent and enabling learner access in Teams.
 - Describe how agent association, provisioning configuration, billing association, and resource readiness contribute to the lab workflow without assuming they share the same configuration controls.
 
-## Apply
+### Apply
 
-•	Complete the assigned MFA challenge and connect to the learner Cloud PC through Windows App using the approved account.
-•	Use Teams to issue an instructor-approved, harmless task to the published agent and inspect the actual execution result.
-•	Carry out authorized session termination and cleanup procedures, verifying the final resource state rather than assuming that closing an application stops billing.
+- Complete the assigned MFA challenge and connect to the learner Cloud PC through Windows App using the approved account.
+- Use Teams to issue an instructor-approved, harmless task to the published agent and inspect the actual execution result.
+- Carry out authorized session termination and cleanup procedures, verifying the final resource state rather than assuming that closing an application stops billing.
 
-## Analyze
+### Analyze
 
-•	Differentiate account, tenant, publication, permissions, billing, and capacity issues when investigating a failed lab checkpoint, and record sanitized evidence before retrying.
-•	Distinguish evidence that two distinct agent Cloud PCs are ready from evidence of task execution, resource allocation, or concurrent sessions.
-Evaluate
-•	Assess completion against the lab checkpoints by checking the exact agent identifier, Teams availability, policy association, approved billing plan, both Cloud PC readiness states, and verified task output.
-•	Determine whether to proceed, stop for instructor validation, or request an approved alternative when instructions, permissions, resource identity, or supported actions cannot be confirmed.
+- Differentiate account, tenant, publication, permissions, billing, and capacity issues when investigating a failed lab checkpoint, and record sanitized evidence before retrying.
+- Distinguish evidence that two distinct agent Cloud PCs are ready from evidence of task execution, resource allocation, or concurrent sessions.
 
-## Create
+### Evaluate
 
-•	As an authorized maker, create a distinct Playground Agent instance using the approved naming convention, record its identifier and environment, and publish it for the intended learner audience in Teams.
-•	As an authorized administrator, create the lab provisioning policy, associate the exact agent instance and approved billing plan through the validated controls, and request exactly two agent Cloud PCs.
-•	Compile a completion record linking each required lab outcome to its observed result and applicable resource, run, or session identifier, noting unresolved validation gaps.
+- Assess completion against the lab checkpoints by checking the exact agent identifier, Teams availability, policy association, approved billing plan, both Cloud PC readiness states, and verified task output.
+- Determine whether to proceed, stop for instructor validation, or request an approved alternative when instructions, permissions, resource identity, or supported actions cannot be confirmed.
+
+### Create
+
+- As an authorized maker, create a distinct Playground Agent instance using the approved naming convention, record its identifier and environment, and publish it for the intended learner audience in Teams.
+- As an authorized administrator, create the lab provisioning policy, associate the exact agent instance and approved billing plan through the validated controls, and request exactly two agent Cloud PCs.
+- Compile a completion record linking each required lab outcome to its observed result and applicable resource, run, or session identifier, noting unresolved validation gaps.
 
 Assessment condition: These outcomes are targets, not claims of successful execution. Product navigation, supported commands, roles, and provisioning and billing controls must be validated in the lab tenant before learner delivery.
 
@@ -74,8 +76,6 @@ Pick your next step based on your learning style:
 | **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
 
 ### 🌟 Microsoft Learn MCP Server
-
-<!-- Remove this section if the Microsoft Learn MCP Server is not relevant to the session. -->
 
 The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the topics in this session.
 
