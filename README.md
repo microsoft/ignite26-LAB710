@@ -11,19 +11,9 @@ In this hands-on lab, participants will deploy and manage Windows 365 for Agents
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
+1. Open [`instructions/`](instructions/README.md) when this session includes
    attendee step-by-step guidance
 
-#### On your own
-
-If you're learning at your own pace:
-
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
 
 ### 🎯 Learning outcomes
 
@@ -35,9 +25,14 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Windows 365 for Agents
+- Agent 365
+- Microsoft Teams
+- Azure Foundry 
+- Opal
+- Copilot
+- Intune
+- Entra
 
 ### 📚 Continue your learning
 
